@@ -1,6 +1,6 @@
 {
     "version": "0.4.3",
-    "pck_url": "https://github.com/vovapro01345/decay-game/releases/download/0.4.3/Decay.pck",
-    "exe_url": "https://github.com/vovapro01345/decay-game/releases/download/0.4.3/Decay.exe",
-    "pck_hash": "c25074d15c863d9beb8e17fe16adda9e"
+    "pck_url": "https://github.com/vovapro01345/decay-game/releases/latest/Decay.pck",
+    "exe_url": "https://github.com/vovapro01345/decay-game/releases/latest/Decay.exe",
+    "pck_hash": "ff2a187a0f66d23cd524d862342a84aa"
 }
